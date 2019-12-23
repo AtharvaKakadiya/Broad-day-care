@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\kamle\eclipse-workspace-2019-6-Atharva-Kakadiya-BrodayCare\.metadata\.plugins\org.eclipse.jdt.core
+113558702.index
+349195221.index
